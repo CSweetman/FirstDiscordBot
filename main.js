@@ -27,4 +27,4 @@ client.on('message', message =>{        //Look up arrow function
 
 
 
-client.login('NzQyMTI4NTU3MDY0NTg1MzA3.XzBnFA.16lMC3nFYC8vT4SuoSHQI7rN5H4');
+client.login();
