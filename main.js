@@ -32,5 +32,5 @@ client.on('message', message =>{        //Look up arrow function
 
 
 
-
-client.login('NzQyMTI4NTU3MDY0NTg1MzA3.XzBnFA.MnkgbA-ikxkDVMmGREmnwWGs204');
+//BE SURE TO DELETE BEFORE PUSHING
+client.login(' ');
