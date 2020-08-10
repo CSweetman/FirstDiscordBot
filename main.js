@@ -27,15 +27,16 @@ client.on('message', message =>{        //Look up arrow function
     if(command === 'ping'){
         client.commands.get('ping').execute(message, args);
     }
+    else if(command === 'youtube'){
+        client.commands.get('youtube').execute(message,args);
+    }
 });
 
 
 
 
-<<<<<<< HEAD
 //BE SURE TO DELETE BEFORE PUSHING
-client.login(' ');
-=======
-
 client.login();
->>>>>>> fae6c6db052fc3123ebc6dcfb171241a47999890
+
+//Each role on discord has an ID, to access \@role
+
